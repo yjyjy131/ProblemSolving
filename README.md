@@ -10,8 +10,9 @@
 ### Simulation
 - boj14719_빗물_g5
 
-### Topological sorting
-- boj2252_줄세우기_g2 ✨
+### Graph
+- boj2252_줄세우기_g2 : 위상정렬 ✨
+- boj1916_최소비용구하기_g5 : 다익스트라 ✨ 
 
 ### Bit Mask 
 - boj1062_가르침_g5 ✨
