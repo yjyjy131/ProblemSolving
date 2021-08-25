@@ -21,6 +21,7 @@
 ### Etc.
 - bj1000_sum
 - bj1316_string
+- boj1789_수들의합_s5 ✨
 - bj1932_dynamic
 - bj2630_recursion
 - bj2750_sorting
