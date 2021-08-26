@@ -26,6 +26,7 @@
 - bj1932_dynamic
 - bj2630_recursion
 - bj2750_sorting
+- boj3085_사탕게임_s4 : Brute Force
 - bj9498_if
 - bj9663_backtracking
 - bj11050
