@@ -7,6 +7,9 @@
 ### DFS & BFS
 - boj14888_연산자끼워넣기_s1
 
+### Dynamic Programming
+- boj2293_동전1_g4 ✨
+
 ### Simulation
 - boj14719_빗물_g5
 
