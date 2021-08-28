@@ -37,5 +37,6 @@
 - bj9498_if
 - bj9663_backtracking
 - bj11050
+- boj16506_cpu_s5
 - hacker_rank_anagrams
 - hacker_rank_binary_linked_list
