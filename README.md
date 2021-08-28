@@ -10,6 +10,7 @@
 
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
+- boj1038_감소하는수_g5 ✨
 
 ### Simulation
 - boj14719_빗물_g5
