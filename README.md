@@ -3,6 +3,7 @@
 ### Stack
 - bj10828_스택구현_s4
 - bj2504_괄호의값_s2 ✨
+- boj3568_isharp_s4
 
 ### DFS & BFS
 - boj14888_연산자끼워넣기_s1
