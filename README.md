@@ -17,6 +17,7 @@
 
 ### Simulation
 - boj14719_빗물_g5
+- boj2290_lcdtest_s2
 
 ### Graph
 - boj2252_줄세우기_g2 : 위상정렬 ✨
