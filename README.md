@@ -9,6 +9,7 @@
 - boj14888_연산자끼워넣기_s1
 - boj2267_단지번호붙이기_s1
 - boj6987_월드컵_s1 ✨
+- boj2606_바이러스_s3
 
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
