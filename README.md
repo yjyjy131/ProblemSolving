@@ -9,16 +9,20 @@
 - boj14888_연산자끼워넣기_s1
 - boj2267_단지번호붙이기_s1
 - boj6987_월드컵_s1 ✨
+- boj2606_바이러스_s3
 
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
 - boj1038_감소하는수_g5 ✨
 - boj15486_퇴사_s1
 - boj1890_점프_s2 ✨
+- boj15989_123더하기4_s1 ✨
+- boj1495_기타리스트_s1 ✨
 
 ### Simulation
 - boj14719_빗물_g5
 - boj2290_lcdtest_s2
+- boj8911_거북이_s2
 
 ### Graph
 - boj2252_줄세우기_g2 : 위상정렬 ✨
