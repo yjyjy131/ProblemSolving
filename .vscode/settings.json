@@ -2,6 +2,7 @@
     "files.associations": {
         "queue": "cpp",
         "system_error": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "iostream": "cpp"
     }
 }
