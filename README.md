@@ -10,6 +10,7 @@
 - boj2267_단지번호붙이기_s1
 - boj6987_월드컵_s1 ✨
 - boj2606_바이러스_s3
+- 1260_DFS와BFS_s2
 
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
