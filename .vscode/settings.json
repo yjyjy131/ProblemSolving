@@ -3,7 +3,10 @@
         "queue": "cpp",
         "system_error": "cpp",
         "xlocale": "cpp",
+<<<<<<< HEAD
         "deque": "cpp",
+=======
+>>>>>>> main
         "iostream": "cpp"
     }
 }
