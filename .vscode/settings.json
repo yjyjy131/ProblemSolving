@@ -2,6 +2,8 @@
     "files.associations": {
         "queue": "cpp",
         "system_error": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "deque": "cpp",
+        "iostream": "cpp"
     }
 }
