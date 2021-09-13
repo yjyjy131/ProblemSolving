@@ -13,6 +13,7 @@
 - 1260_DFS와BFS_s2
 - 1303_전쟁-전투_s1
 - boj2178_미로_s1 ✨
+- boj1743_음식물피하기_s1
 
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
