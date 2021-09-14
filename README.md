@@ -59,3 +59,5 @@
 - boj16506_cpu_s5
 - hacker_rank_anagrams
 - hacker_rank_binary_linked_list
+- boj5525_IOIOI_s2 ✨
+ 
