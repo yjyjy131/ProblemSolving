@@ -15,7 +15,8 @@
 - boj2178_미로_s1 ✨
 - boj1743_음식물피하기_s1
 - boj16953_AB_s1
-- boj17086_아기상어2_s2 ✨
+- boj17086_아기상어2_g5 ✨
+- boj16236_아기상어_g4 ✨
 
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
