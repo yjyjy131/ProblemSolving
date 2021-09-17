@@ -18,6 +18,7 @@
 - boj17086_아기상어2_g5 ✨
 - boj16236_아기상어_g4 ✨
 - boj2589_보물섬_g5 ✨
+- boj14226_이모티콘_g5 ✨
  
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
