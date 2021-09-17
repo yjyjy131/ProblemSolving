@@ -17,7 +17,8 @@
 - boj16953_AB_s1
 - boj17086_아기상어2_g5 ✨
 - boj16236_아기상어_g4 ✨
-
+- boj2589_보물섬_g5 ✨
+ 
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
 - boj1038_감소하는수_g5 ✨
