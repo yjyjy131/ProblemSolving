@@ -23,6 +23,7 @@
 - boj2636_치즈_g5 ✨
 - boj15683_감시_g5 ✨
 - boj1261_알고스팟_g4 ✨
+- boj2023_신기한소수_g5
  
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
