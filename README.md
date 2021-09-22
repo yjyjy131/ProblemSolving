@@ -22,6 +22,7 @@
 - boj17070_파이프옮기기1_g5
 - boj2636_치즈_g5 ✨
 - boj15683_감시_g5 ✨
+- boj1261_알고스팟_g4 ✨
  
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
