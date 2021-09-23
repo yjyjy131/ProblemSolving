@@ -25,6 +25,7 @@
 - boj1261_알고스팟_g4 ✨
 - boj2023_신기한소수_g5
 - boj16197_두동전_g4
+- boj14502_연구소_g5
  
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
