@@ -75,4 +75,5 @@
 - hacker_rank_binary_linked_list
 - boj5525_IOIOI_s2 ✨
 - boj1759_암호만들기_g5
+- boj1411_비슷한단어_s2
  
