@@ -61,8 +61,9 @@
 ### Bit Mask 
 - boj1062_가르침_g5 ✨
 
-### Brute Force
+### Greedy
 - boj1339_단어수학_g4 ✨
+- boj14241_슬라임합치기_s2
 
 ### Etc.
 - bj1000_sum
