@@ -61,6 +61,9 @@
 ### Bit Mask 
 - boj1062_가르침_g5 ✨
 
+### Brute Force
+- boj1339_단어수학_g4 ✨
+
 ### Etc.
 - bj1000_sum
 - bj1316_string
