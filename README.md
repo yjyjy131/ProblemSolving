@@ -5,7 +5,7 @@
 - bj2504_괄호의값_s2 ✨
 - boj3568_isharp_s4
 
-### DFS & BFS & Backtracking
+### DFS & BFS & Backtracking & Brute Force
 - boj14888_연산자끼워넣기_s1
 - boj2267_단지번호붙이기_s1
 - boj6987_월드컵_s1 ✨
@@ -28,6 +28,7 @@
 - boj14502_연구소_g5
 - boj16938_캠프준비_g4
 - boj11950_2016 IOI_g4
+- boj14889_스타트와링크_s3
  
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
