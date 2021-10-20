@@ -29,6 +29,7 @@
 - boj16938_캠프준비_g4
 - boj11950_2016 IOI_g4
 - boj14889_스타트와링크_s3
+- boj19236_청소년상어_g2 ✨✨
  
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
