@@ -30,6 +30,7 @@
 - boj11950_2016 IOI_g4
 - boj14889_스타트와링크_s3
 - boj19236_청소년상어_g2 ✨✨
+- boj2583_영역 구하기_s1
  
 ### Dynamic Programming
 - boj2293_동전1_s1 ✨
