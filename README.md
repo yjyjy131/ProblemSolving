@@ -79,6 +79,7 @@
 
 ### Implementation
 - boj21608_상어초등학교_g5 ✨
+- boj21609_상어중학교_g2 ✨
 
 ### Graph
 - boj2252_줄세우기_g2 : 위상정렬 ✨
